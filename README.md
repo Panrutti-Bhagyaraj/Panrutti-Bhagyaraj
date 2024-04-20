@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @Panrutti-Bhagyaraj
-- 👀 I’m interested in Web development and Mobile Applications developement
-- 🌱 My skills: C,CPP,JAVA,PYTHON,HTML,CSS,PHP,MYSQL
+- 👀 I’m interested in Web development and has 2 years experince in .Net Framework and .Net Core application development
+- 🌱 Technical Skills:
+    - Languages:  C, C++, C#, Python, Java, HTML/CSS, JavaScript, SQL
+    - Developer Tools:  VS Code, Azure, SonarQube, Octopus Server, Katalon Studio, Github Actions, SSMS
+    - Technologies/Frameworks:  ASP .NET MVC, .NET Core, GitHub, Entity Framework, Bootstrap, JQuery
 - 📫 How to reach me : bhagyaraj.panrutti.07@gmail.com
